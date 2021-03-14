@@ -1,5 +1,5 @@
 # Mathematica
-Version:  0.0.0
+Current Version:  0.1.0
 
 Language:  C++
 
@@ -19,5 +19,5 @@ This program will perform mathematical calculations ranging from basic to advanc
 
 # Change Log
 
-## 0.0.0
+## 0.1.0
 - Main, program title, menu, and quit program functions created
