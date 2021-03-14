@@ -1,6 +1,6 @@
 /*==============================================================
 Program:  Mathematica
-Version:  0.0.0
+Version:  0.1.0
 Version Date:  03/13/2021
 Author:  Kevin Wilkins
 Date:  03/13/2021
