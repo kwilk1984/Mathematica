@@ -30,6 +30,7 @@ Function prototypes
 void ProgramTitle();
 void MainMenu();
 void QuitProgram();
+void BasicCalc();
 
 /*###############################################
 Main function
@@ -134,7 +135,7 @@ void MainMenu()
         switch (menuOption)
         {
         case 1: system("clear");
-            /* BasicCalc() function */
+            BasicCalc();
             break;
         
         case 2: QuitProgram();
@@ -145,4 +146,14 @@ void MainMenu()
             break;
         }
     } while (menuOption != abs(2));    
+}
+
+void BasicCalc()
+{
+    system("clear"); // Clear terminal
+
+    /* Find out what type of basic calculation the user wants
+    to perform */
+
+    // USE VECTOR TO STORE INPUT
 }
